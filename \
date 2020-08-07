@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>ChessStrich</title>
+    <title> South African Ostrich </title>
     <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -15,7 +15,7 @@
             <header class="page-header">
                 
                 <div>
-                   <h1 style="float: left;"><img src="ostrich.png" height="60px" width="60px" border="0px"></h1>
+                   <h1 style="float: left;"><img src="ostrich.png" height="400px" width="400px" border="1px"></h1>
                     <h1><b> The South Africa Chess Ostrich </b></h1>
                 </div>
             </header>
